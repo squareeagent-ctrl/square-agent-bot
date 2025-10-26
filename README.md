@@ -1,3 +1,0 @@
-discord.py==2.3.2
-gspread==6.1.4
-oauth2client==4.1.3
