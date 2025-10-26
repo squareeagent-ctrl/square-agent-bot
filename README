@@ -1,0 +1,10 @@
+# 🎮 Square Agent Bot
+
+Square Agent is a Discord bot for managing esports tournaments.
+
+## Features
+- Create tournaments with `/new_tournament`
+- Register teams with `/register`
+- Auto-generate Google Sheets for registrations
+- Send confirmation emails to captains
+- Polls, reminders, surveys, leaderboards
